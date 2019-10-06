@@ -20,7 +20,7 @@ a:link, a:visited, a:active {
 	color: #ffff00;
 }
 
-a:hover {
+a:hover, a:focus {
 	background-color: #ffff00;
 	color: #ffaa50;
 }
